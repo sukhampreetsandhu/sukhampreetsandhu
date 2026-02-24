@@ -7,7 +7,7 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sukhampreetsandhu&show_icons=true&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sukhampreetsandhu&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight"/>
 </p>
 <img src="./profile/langs.svg" />
 <p align="left">

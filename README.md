@@ -7,11 +7,11 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sukhampreetsandhu&show_icons=true&hide_border=true&count_private=true" height="170"/>
 </p>
 <img src="./profile/langs.svg" />
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=sukhampreetsandhu&hide_border=true"/>
 </p>
 ---
 [![](https://visitcount.itsvg.in/api?id=sukhampreetsandhu&icon=0&color=0)](https://visitcount.itsvg.in)

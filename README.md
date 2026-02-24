@@ -11,7 +11,7 @@
 </p>
 <img src="./profile/langs.svg" />
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=sukhampreetsandhu&hide_border=true"/>
+   <img src="https://streak-stats.demolab.com?user=sukhampreetsandhuE&theme=tokyonight&hide_border=true"/>
 </p>
 ---
 [![](https://visitcount.itsvg.in/api?id=sukhampreetsandhu&icon=0&color=0)](https://visitcount.itsvg.in)

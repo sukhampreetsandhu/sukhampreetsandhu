@@ -7,11 +7,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sukhampreetsandhu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
+   <img src="https://streak-stats.demolab.com?user=sukhampreetsandhu&theme=tokyonight&hide_border=true"/>
    <img src="./profile/langs.svg" />
 </p>
 <p align = "center">
-  
-  <img src="https://streak-stats.demolab.com?user=sukhampreetsandhu&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sukhampreetsandhu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
 </p>
 

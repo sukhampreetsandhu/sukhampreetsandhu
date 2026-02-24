@@ -7,7 +7,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="./profile/stats.svg" />
+<img src="https://github-readme-stats.vercel.app/api?username=sukhampreetsandhu&hide=stars,prs,issues,contribs&show_icons=true&include_all_commits=true&hide_rank=true" />
 
 <img src="./profile/langs.svg" />
 

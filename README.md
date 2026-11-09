@@ -17,23 +17,11 @@
 
 I'm a Computer Science student at the University of Guelph who enjoys understanding how software works under the hood, from low-level systems code to backend services. I care about writing code that is reliable, testable, and easy to maintain, and I like the problem-solving side of debugging and optimization.
 
-### 🔭 What I'm Working On
-- 🎮 Building a **game engine** from scratch, learning about architecture, performance, and systems design
-- 🛠️ Applying best practices for real-world software development: version control, code review, testing, and CI/CD
-
-### 🌱 What I'm Learning
-- Writing cleaner, more maintainable code
-- Backend design and database fundamentals
-- Algorithms and data structures, with a focus on implementation
 
 ### 🎯 What I'm Looking For
 - Software Engineering internship opportunities, especially in backend development and reliability-focused roles
 - Teams where I can learn from experienced engineers and contribute to real products
 
-### 💬 Ask Me About
-- Debugging, testing, and software quality
-- Game engine development
-- Algorithms and backend systems
 
 ### 😄 Fun Fact
 I've debugged programs longer than I've written them.

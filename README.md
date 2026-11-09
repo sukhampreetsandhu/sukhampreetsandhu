@@ -15,17 +15,14 @@
 
 ## 💫 About Me
 
-I'm a Computer Science student at the University of Guelph who enjoys understanding how software works under the hood, from low-level systems code to backend services. I care about writing code that is reliable, testable, and easy to maintain, and I like the problem-solving side of debugging and optimization.
-
+I'm a Computer Science student at the University of Guelph who enjoys building software and understanding how it works under the hood, from low-level systems code to full-stack applications. I care about writing code that is reliable, testable, and easy to maintain, and I like the problem-solving side of debugging and optimization.
 
 ### 🎯 What I'm Looking For
-- Software Engineering internship opportunities, especially in backend development and reliability-focused roles
+- Software Engineering internship opportunities, especially in backend and full-stack development
 - Teams where I can learn from experienced engineers and contribute to real products
-
 
 ### 😄 Fun Fact
 I've debugged programs longer than I've written them.
-
 ---
 
 ## 💻 Technical Focus
@@ -44,11 +41,6 @@ I've debugged programs longer than I've written them.
 - Algorithm design and implementaion
 
 ---
-
-## 📫 Connect With Me
-- 🌐 [Portfolio](https://www.sukhampreetsandhu.com/)  
-- 💼 [LinkedIn](www.linkedin.com/in/sukhampreetsandhu)  
-- ✉️ [Email](mailto:ssandhu6june@gmail.com)
 
 ## 📊 GitHub Stats
 <p align="center">

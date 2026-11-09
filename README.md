@@ -43,10 +43,8 @@ I've debugged programs longer than I've written them.
 ---
 
 ## 📊 GitHub Stats
+## 📊 Top Languages
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sukhampreetsandhu&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sukhampreetsandhu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
   <img src="./profile/langs.svg" alt="Top languages"/>
 </p>

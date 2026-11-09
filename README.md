@@ -1,16 +1,72 @@
-# 💫 About Me:
-👋 Hi, I’m Sukhampreet Sandhu<br>Computer Science student at the University of Guelph<br>Aspiring Software Developer / Software Engineering Intern<br>I am currenlty working towards a game engine<br>I am currently learning Learning best practices for real-world software development<br>Fucn fact: I’ve debugged programs longer than I’ve written them 😄
+<h1 align="center">Hi, I'm Sukhampreet Sandhu 👋</h1>
 
+<p align="center">
+  Computer Science student at the <b>University of Guelph</b><br>
+  Aspiring Software Engineer focused on backend systems, reliability, and performance
+</p>
 
-# 💻 Tech Stack:
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42"/> <img src="https://railway.app/brand/logo-light.svg" height="42" title="Railway"/> </p>
+<p align="center">
+  <a href="https://www.sukhampreetsandhu.com/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/sukhampreetsandhu">LinkedIn</a> •
+  <a href="mailto:ssandhu6june@gmail.com">Email</a>
+</p>
+
+---
+
+## 💫 About Me
+
+I'm a Computer Science student at the University of Guelph who enjoys understanding how software works under the hood, from low-level systems code to backend services. I care about writing code that is reliable, testable, and easy to maintain, and I like the problem-solving side of debugging and optimization.
+
+### 🔭 What I'm Working On
+- 🎮 Building a **game engine** from scratch, learning about architecture, performance, and systems design
+- 🛠️ Applying best practices for real-world software development: version control, code review, testing, and CI/CD
+
+### 🌱 What I'm Learning
+- Writing cleaner, more maintainable code
+- Backend design and database fundamentals
+- Algorithms and data structures, with a focus on implementation
+
+### 🎯 What I'm Looking For
+- Software Engineering internship opportunities, especially in backend development and reliability-focused roles
+- Teams where I can learn from experienced engineers and contribute to real products
+
+### 💬 Ask Me About
+- Debugging, testing, and software quality
+- Game engine development
+- Algorithms and backend systems
+
+### 😄 Fun Fact
+I've debugged programs longer than I've written them.
+
+---
+
+## 💻 Technical Focus
+| | |
+|---|---|
+| **Languages** | Python, Java, C/C++, SQL, JavaScript, HTML, CSS |
+| **Frameworks & Tools** | Spring, Git, GitHub, GitLab, Jira, Docker, CMake, Linux, Jenkins, PostgreSQL, AWS, Figma |
+| **Practices** | Agile, CI/CD, Object-Oriented Design, Debugging, Testing |
+
+---
+
+## 🧠 Interests
+- Software reliability & optimization
+- Backend Development
+- DevOps
+- Algorithm design and implementaion
+
+---
+
+## 📫 Connect With Me
+- 🌐 [Portfolio](https://www.sukhampreetsandhu.com/)  
+- 💼 [LinkedIn](www.linkedin.com/in/sukhampreetsandhu)  
+- ✉️ [Email](mailto:ssandhu6june@gmail.com)
 
 ## 📊 GitHub Stats
 <p align="center">
-   <img src="https://streak-stats.demolab.com?user=sukhampreetsandhu&theme=tokyonight&hide_border=true"/>
-   <img src="./profile/langs.svg" />
+  <img src="https://streak-stats.demolab.com?user=sukhampreetsandhu&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
-<p align = "center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sukhampreetsandhu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sukhampreetsandhu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="./profile/langs.svg" alt="Top languages"/>
 </p>
-
